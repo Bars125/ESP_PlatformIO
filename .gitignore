@@ -3,6 +3,6 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-.include/network_param.h
+include/network_param.h
 .node_server/
 node_server/
